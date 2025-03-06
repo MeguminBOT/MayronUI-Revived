@@ -1,8 +1,7 @@
 # Exclude everything by default
-/*
+*/Third-Party/*
+*/Mayron/*
 
-# Except AddOns prefixed with "MUI_"
-!/MUI_*
 !lua-formatter.yaml
 
 *.zip
